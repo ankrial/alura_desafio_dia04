@@ -1,4 +1,4 @@
-
+// Creado: Alberto Jiu
 let numeroMaximo = 10;
 let intentos = 3;
 let opcion = 1;
